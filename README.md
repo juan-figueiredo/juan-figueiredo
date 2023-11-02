@@ -1,13 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Juan+Figueiredo+:%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Juan+Figueiredo+:%29;)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juan-figueiredo&bg_color=0D1117&color=0000FF&line=FFFF00&point=0000FF&area=true&hide_border=true&text_color=FFFF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-![JuanFigueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-figueiredo&show_icons=true&bg_color=00000000&text_color=FFFF00)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=00000000&text_color=FFFF00)]
-</div>
+
+<span align="center" justify-content="space-between">
+<img width="45%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=juan-figueiredo&show_icons=true&bg_color=00000000&text_color=FFFF00">
+<img width="50%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=00000000&text_color=FFFF00">
+</span>
 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -40,6 +41,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+"[Snake animation](https://github.com/juan-figueiredo/juan-figueiredo/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
